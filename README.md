@@ -1,3 +1,3 @@
-#TicTacToe Game
+# TicTacToe Game
 A game of TicTacToe created using HTML,CSS,JavaScript for my WebOps inductions.
 [Webpage Url](https://gurusaran-28.github.io/TicTacToe-game/)
