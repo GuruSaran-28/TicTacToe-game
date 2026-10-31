@@ -1,0 +1,49 @@
+body{
+    background-color: #fffff5;
+    text-align: center;
+}
+hr{
+    height: 2px;
+    background-color: black;
+}
+#Title{
+    font-family: "silkscreen";
+    font-weight: bold;
+    color: #131212;
+    text-shadow: 0 0 px;
+    font-size: 50px;
+}
+#report{
+    font-family: "pixelify sans";
+    font-size: 25px;
+    color: #363636;
+}
+.box{
+    width: 75px;
+    height: 75px;
+    border: 3px solid;
+    font-size: 65px;
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+#layout{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+    color: #000000;
+    font-family: "Redaction 35";
+    margin: auto;
+}
+#playing{
+    font-size: 35px;
+    font-family: "pixelify sans";
+    color: #363636;
+}
+.btn{
+    background-color: #FFFFFF;
+    border-color: #000000;
+    font-family: "pixelify sans";
+    font-size: 15px;
+    border-radius: 2px;
+    cursor: pointer;
+}
